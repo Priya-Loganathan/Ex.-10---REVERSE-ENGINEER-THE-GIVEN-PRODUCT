@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/Priya-Loganathan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166075/d1edaf23-66cf-4799-aa78-2d0e019580b8)
+
 ### Output:
 
+### Name: DELLI PRIYA L
+### Register Number: 212222230029
 
-### Name:
-### Register Number:
+![image](https://github.com/Priya-Loganathan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166075/521e9468-9c22-479a-9ad0-466e356a016b)
+![image](https://github.com/Priya-Loganathan/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/121166075/636a80c2-024c-452b-ae63-b80aedc7ef75)
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
